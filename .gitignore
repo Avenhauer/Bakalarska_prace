@@ -1,0 +1,7 @@
+*.csv
+*.zip
+axelar_bridge_clean.csv
+axelar_bridge_pair_summary.csv
+axelarscan_data/
+Axelar/out/axelar_bridge_clean.csv
+.venv
