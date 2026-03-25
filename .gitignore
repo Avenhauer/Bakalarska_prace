@@ -6,4 +6,6 @@ axelarscan_data/
 Axelar/out/axelar_bridge_clean.csv
 .venv
 /.DS_Store
-.DS_Store
+.DS_StoreXCM_BP/notebook/corrected_xcm_pairs_multichain.csv
+XCM_BP/notebook/PyCharmMiscProject.iml
+XCM_BP/output/
