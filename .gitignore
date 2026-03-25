@@ -5,3 +5,5 @@ axelar_bridge_pair_summary.csv
 axelarscan_data/
 Axelar/out/axelar_bridge_clean.csv
 .venv
+/.DS_Store
+.DS_Store
