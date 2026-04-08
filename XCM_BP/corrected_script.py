@@ -11,7 +11,7 @@ import sys
 # =========================================
 # Config
 # =========================================
-API_KEY = os.getenv("SUBSCAN_API_KEY", "90f6e2ae515b41598f1144031fb8d02c").strip()
+API_KEY = os.getenv("SUBSCAN_API_KEY", "API-klíč").strip()
 SRC_HOST  = "https://polkadot.api.subscan.io"
 
 # Destination Config
